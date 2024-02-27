@@ -1,4 +1,4 @@
 # CS250-Spring24-Group05
-Vince Valihan
+Vince Alihan
 Carson Mucho
 Kaelin Facun
